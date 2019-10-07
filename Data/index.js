@@ -73,7 +73,7 @@ module.exports = {
   },
   Shirts:{
     Niche_ID: "Shirts",
-    Hashtag: "customshirts",
+    Hashtag1: "customshirts",
     Hashtag2:  "customshirts",
     Hashtag3:  "shirtsforsale",
     Difficulty: 9,
