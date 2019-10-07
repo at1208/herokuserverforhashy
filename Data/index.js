@@ -1,5 +1,5 @@
-module.exports = [
-  [Jeans:{
+module.exports = {
+  Jeans:{
     Niche_ID: "Jeans",
     Hashtag1: "jeans",
     Hashtag2: "jeanshorts",
@@ -7,8 +7,8 @@ module.exports = [
     Difficulty1: 1,
     Difficulty2: 51,
     Difficulty3: 5,
-  }],
-  [Leather_Jacket:{
+  },
+  Leather_Jacket:{
     Niche_ID: "Leather_Jacket",
     Hashtag1: "leatherjacket",
     Hashtag2:  "leatherjackets",
@@ -16,8 +16,8 @@ module.exports = [
     Difficulty1: 2,
     Difficulty2: 61,
     Difficulty3: 6,
-  }],
-  [Leather_Pants:{
+  },
+  Leather_Pants:{
     Niche_ID: "Leather_Pants",
     Hashtag1: "leatherpants",
     Hashtag2: "leathertrousers",
@@ -25,8 +25,8 @@ module.exports = [
     Difficulty1: 3,
     Difficulty2: 71,
     Difficulty3: 7,
-  }],
-  [Leather_Clothing:{
+  },
+  Leather_Clothing:{
     Niche_ID: "Leather_Clothing",
     Hashtag1: "leatherskirt",
     Hashtag2: "skirtsteak",
@@ -34,8 +34,8 @@ module.exports = [
     Difficulty1: 4,
     Difficulty2: 81,
     Difficulty3: 8,
-  }],
-  [Mens_and_Boys_Hats:{
+  },
+  Mens_and_Boys_Hats:{
     Niche_ID: "Mens_and_Boys_Hats",
     Hashtag1: "menhats",
     Hashtag2: "menshats",
@@ -43,8 +43,8 @@ module.exports = [
     Difficulty1: 5,
     Difficulty2: 91,
     Difficulty3: 9,
-  }],
-  [Mens_Suits:{
+  },
+  Mens_Suits:{
     Niche_ID: "Mens_Suits",
     Hashtag1: "suits",
     Hashtag2: "suitsupply",
@@ -52,8 +52,8 @@ module.exports = [
     Difficulty1: 6,
     Difficulty2: 100,
     Difficulty3: 10,
-  }],
-  [Neckwear:{
+  },
+  Neckwear:{
     Niche_ID: "Neckwear",
     Hashtag1: "neckwear",
     Hashtag2: "bowties",
@@ -61,8 +61,8 @@ module.exports = [
     Difficulty: 7,
     Difficulty: 51,
     Difficulty: 1,
-  }],
-  [Pants:{
+  },
+  Pants:{
     Niche_ID: "Pants",
     Hashtag1: "pants",
     Hashtag2: "pantsmurah",
@@ -70,8 +70,8 @@ module.exports = [
     Difficulty1: 8,
     Difficulty2: 2,
     Difficulty3: 61,
-  }],
-  [Shirts:{
+  },
+  Shirts:{
     Niche_ID: "Shirts",
     Hashtag: "customshirts",
     Hashtag2:  "customshirts",
@@ -79,8 +79,8 @@ module.exports = [
     Difficulty: 9,
     Difficulty2: 3,
     Difficulty3: 71,
-  }],
-  [Surplus_and_Salvage_Merchandise:{
+  },
+  Surplus_and_Salvage_Merchandise:{
     Niche_ID: "Surplus_and_Salvage_Merchandise",
     Hashtag1: "surplusstuffandsalvage",
     Hashtag2: "salvagestyle",
@@ -88,6 +88,6 @@ module.exports = [
     Difficulty: 10,
     Difficulty2: 4,
     Difficulty3: 81,
-  }],
+  },
 
-]
+}
